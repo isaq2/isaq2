@@ -1,16 +1,21 @@
-### Hi there 👋
+# 👋 Olá!
+- 🔭 Estou atualmente trabalhando em: AdvancedTweenService ( Roblox )
+- 🌌 Estou aprendendo a: calcular 3²
+- 😱 Roblox é roblox né
 
-<!--
-**isaq2/isaq2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Linguagens de programação que eu tenho experiencia
+<div style="display: inline_block">
+    <img align="center" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+</div>
+</br>
 
-Here are some ideas to get you started:
+## 🔨 Ferramentas
+<div style="display: inline_block">
+    <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img align="center" alt="Github" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Estatísticas
+[![GitHub Streak](https://streak-stats.demolab.com/?user=isaq2&theme=dark)](https://git.io/streak-stats)
+[![isaq2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaq2&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only)]()

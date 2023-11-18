@@ -3,7 +3,7 @@
 - 🌌 Estou aprendendo a: calcular 3²
 - 😱 Roblox é roblox né
 
-## 💡 Linguagens de programação que eu tenho experiencia
+## 💡 Linguagens de programação que eu tenho experiência
 <div style="display: inline-block; text-align: center;">
     <a href="https://www.lua.org" target="_blank">
         <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">

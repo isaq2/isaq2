@@ -11,8 +11,12 @@
 
 ## 🔨 Ferramentas
 <div style="display: inline_block">
-    <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    <img align="center" alt="Github" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <a href="https://github.com" target="_blank">
+        <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="https://code.visualstudio.com" target="_blank">
+        <img align="center" alt="Vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    </a>
 </div>
 </br>
 

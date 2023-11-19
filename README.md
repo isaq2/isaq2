@@ -2,11 +2,22 @@
 - 🔭 Estou atualmente trabalhando em: AdvancedTweenService ( Roblox )
 - 🌌 Estou aprendendo a: calcular 3²
 - 😱 Roblox é roblox né
+</br>
 
-## 💡 Linguagens de programação que eu tenho experiência
+## 💡 Linguagens de programação
+Tenho experiência
 <div style="display: inline-block; text-align: center;">
     <a href="https://www.lua.org" target="_blank">
         <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+    </a>
+</div>
+
+</br>
+
+Sei um pouco
+<div style="display: inline-block; text-align: center;">
+    <a href="https://www.python.org" target="_blank">
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </a>
 </div>
 </br>

@@ -1,6 +1,6 @@
 # 👋 Olá!
 - 🔭 Estou atualmente trabalhando em: AdvancedTweenService (Roblox)
-- 🚀 Estou aprendendo a: calcular 1+1
+- 📚 Estou aprendendo a: calcular 1+1
 - 😱 Roblox é roblox né
 </br>
 
